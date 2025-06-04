@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diego-viana&color=blue&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/diego-viana?label=Seguidores&style=social)](https://github.com/diego-viana)
+[![GitHub Followers](https://img.shields.io/github/followers/diego-viana?label=Seguidores&style=social)](https://github.com/diiegov)
 
 </div>
 
@@ -213,7 +213,7 @@ const diego = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diiegov/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/in/diiegov/)
 
