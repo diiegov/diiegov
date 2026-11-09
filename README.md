@@ -9,7 +9,7 @@
 
 ## 🎓 Sobre Mim
 
-Sou **estudante de Análise e Desenvolvimento de Sistemas**, atualmente no **4º semestre**, com o objetivo de me tornar um **desenvolvedor Full Stack**. Estou sempre em busca de novos conhecimentos, desafios e oportunidades para evoluir como programador.
+Sou **estudante de Análise e Desenvolvimento de Sistemas**, atualmente **Formado**, com o objetivo de me tornar um **desenvolvedor Full Stack**. Estou sempre em busca de novos conhecimentos, desafios e oportunidades para evoluir como programador.
 
 ```javascript
 const diego = {
